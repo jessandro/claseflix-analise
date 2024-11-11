@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "619d46f94a5e4e001642c4e6",
+    "name": "Curso de Fotografía",
+    "description": "Aprende los principales conceptos de la fotografía y conviértete en un fotógrafo profesional.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1637696561/courses/Curso_de_Fotografia_snhxkf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653056008/courses/curso-de-fotografia-featured-1_hkox3v.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653056008/courses/curso-de-fotografia-featured-4_rd6ym2.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653056008/courses/curso-de-fotografia-featured-2_ldsu1b.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653056008/courses/curso-de-fotografia-featured-3_pawnkl.jpg"
+    ],
+    "slug": "curso-de-fotografia"
+  },
+  {
+    "id": "6190822ea4ea140016565e22",
+    "name": "Curso de Inglés Intermedio",
+    "description": "Avanzamos un paso más en tu aprendizaje y elevamos el nivel para que puedas seguir creciendo y aprendiendo.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1636859760/courses/Curso_de_Ingl%C3%A9s_tzpckb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652057319/courses/curso-de-ingles-intermedio-featured-3_aeafw5.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652057320/courses/curso-de-ingles-intermedio-featured-1_hs7i3x.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652057320/courses/curso-de-ingles-intermedio-featured-2_yqwxlc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652057322/courses/curso-de-ingles-intermedio-featured-4_se6kx1.jpg"
+    ],
+    "slug": "curso-de-ingles-intermedio"
+  },
+  {
+    "id": "613a7e6d5a2f610016df0a5c",
+    "name": "Edición de Vídeo",
+    "description": "Aprende a editar vídeos de manera profesional usando Filmora. Crea efectos dignos de Hollywood.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1631223085/courses/Filmora_w0utod.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651674793/courses/edicion-de-video-featured-4_nmnjhu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651674794/courses/edicion-de-video-featured-3_toheky.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651674794/courses/edicion-de-video-featured-2_llgjqx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651674794/courses/edicion-de-video-featured-1_vavlhu.jpg"
+    ],
+    "slug": "edicion-de-video"
+  },
+  {
+    "id": "6142283edf936d001630a9c3",
+    "name": "Curso de Adobe After Effects",
+    "description": "Crea gráficos increíbles, juega con efectos visuales y deja que tu mente se exprese de una forma profesional y sin límites.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1631725182/courses/Adobe_ejdigg.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653148563/courses/curso-de-adobe-after-effects-featured-3_xkl69n.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653148563/courses/curso-de-adobe-after-effects-featured-1_k7ill6.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653148563/courses/curso-de-adobe-after-effects-featured-2_ekpywb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653148564/courses/curso-de-adobe-after-effects-featured-4_mhtojs.jpg"
+    ],
+    "slug": "curso-de-adobe-after-effects"
+  },
+  {
+    "id": "6133a3ba77bfaa00166593d5",
+    "name": "Adobe Photoshop",
+    "description": "Aprende todo sobre Photoshop en un curso que te dará la posibilidad de hacer magia con las imágenes, literalmente.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1630773857/courses/photo_1920_uoj48l.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652269098/courses/adobe-photoshop-featured-2_pl1xun.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652269098/courses/adobe-photoshop-featured-1_o70lvo.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652269098/courses/adobe-photoshop-featured-4_uj1mpm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652269098/courses/adobe-photoshop-featured-3_owiyau.jpg"
+    ],
+    "slug": "adobe-photoshop"
+  },
+  {
+    "id": "616862d73a73f20016390976",
+    "name": "Curso de Javascript",
+    "description": "Aprende todo sobre Javascript y empieza a programar hoy mismo de la mano de los profesores más profesionales.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1634230768/courses/Adobe_290_x_161_px_pubtcb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654002499/courses/curso-de-javascript-featured-1_tfz4tc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654002498/courses/curso-de-javascript-featured-2_x9p51l.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654002499/courses/curso-de-javascript-featured-3_fsfqsm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654002499/courses/curso-de-javascript-featured-4_bpjx5n.jpg"
+    ],
+    "slug": "curso-de-javascript"
+  },
+  {
+    "id": "61d50ea70aa6730016fb4c71",
+    "name": "Curso de Iniciación a la Nutrición ",
+    "description": "Aprende los principios de la Nutrición Básica de las manos de Laura Leyva. Navega entre macros y micros nutrientes y conviértete en un experto en platos saludables.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1641352682/courses/Captura_de_pantalla_2022-01-05_a_las_0.16.33_vicvfs.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1646757353/courses/curso-de-iniciacion-a-la-nutricion-1-f_qgz8o0.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1646761803/courses/curso-de-iniciacion-a-la-nutricion-2-f_fvri7d.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648226695/courses/curso-de-iniciacion-a-la-nutricion-4-f_gh3kiz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648226695/courses/curso-de-iniciacion-a-la-nutricion-3-f_zjf6xy.jpg"
+    ],
+    "slug": "curso-de-iniciacion-a-la-nutricion"
+  },
+  {
+    "id": "617480aa2752f10016036317",
+    "name": "Curso de Marketing",
+    "description": "Curso de iniciación al marketing. Aprende sobre campañas, competencia, ventas y mucho más...",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1644869483/courses/Captura_de_pantalla_2022-02-14_a_las_21.01.46_zpba6f.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1657662230/courses/curso-de-marketing-featured-1_mqsavf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1657662230/courses/curso-de-marketing-featured-3_hyajbt.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1657662230/courses/curso-de-marketing-featured-4_mye1ej.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1657662230/courses/curso-de-marketing-featured-2_s2svrk.jpg"
+    ],
+    "slug": "curso-de-marketing"
+  },
+  {
+    "id": "624755895670c40016d5e018",
+    "name": "Community Manager",
+    "description": "Curso de community manager y social media.\nSi quieres ser un genio de las redes no te lo puedes perder.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1648839964/courses/COMMUNITY_MANAGER-2_jniysb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648839965/courses/COMMUNITY_MANAGER_irynef.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648839965/courses/community-management-banner-3_cjgzov.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648839965/courses/community-management-banner-4_fuph8b.jpg"
+    ],
+    "slug": "community-manager"
+  },
+  {
+    "id": "624c8fb64935e4001657d58e",
+    "name": "Curso de Preparador Físico",
+    "description": "¡Si te gusta la actividad deportiva, este es tu curso!\n",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1649184624/courses/curso-preparador-fisico-banner-1_jyk9zb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649184624/courses/curso-preparador-fisico-banner-4_ecye94.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649184623/courses/curso-preparador-fisico-banner-2_wjy5jl.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649184635/courses/curso-preparador-fisico-banner-3_jicfys.jpg"
+    ],
+    "slug": "curso-de-preparador-fisico"
+  },
+  {
+    "id": "61310597e586200016ee11f7",
+    "name": "Diseño Gráfico con Canva",
+    "description": "Aprende a crear diseños profesionales usando una de las herramientas más solicitadas del mercado. Sin duda un curso que hará tus redes sociales mucho más atractivas y elevará tus habilidades a los niveles más altos.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1630602456/courses/Curso_de_wordpress_completo_uw5kl6.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652056406/courses/diseno-grafico-con-canva-featured-3_gz9ch3.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652056407/courses/diseno-grafico-con-canva-featured-1_okxrmq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652056406/courses/diseno-grafico-con-canva-featured-4_u3pqd5.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652056407/courses/diseno-grafico-con-canva-featured-2_ltuily.jpg"
+    ],
+    "slug": "diseno-grafico-con-canva"
+  },
+  {
+    "id": "6214d126a0061b0016d232bb",
+    "name": "Administración de Empresas",
+    "description": "Sumérgete en el mundo de la administración y la dirección de empresas, aprende estrategias empresariales y desarrolla habilidades de liderazgo.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1645536097/courses/Captura_de_pantalla_2022-02-22_a_las_12.49.30_iqcdrj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1645537083/courses/Captura_de_pantalla_2022-02-22_a_las_14.33.29_r0wgik.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1645537083/courses/Captura_de_pantalla_2022-02-22_a_las_14.37.15_knkpau.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649164446/courses/administracion-de-empresas-featured-1_zfiucy.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649164446/courses/administracion-de-empresas-featured-4_k1dmiw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649164446/courses/administracion-de-empresas-featured-3_rtghyb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649164446/courses/administracion-de-empresas-featured-2_pzc9yk.jpg"
+    ],
+    "slug": "administracion-de-empresas"
+  },
+  {
+    "id": "612fa279fdd4c00016da7694",
+    "name": "Excel - Desde cero",
+    "description": "Aprende a manejar una de las herramientas más potentes para hacer cálculos en un curso sencillo y directo al punto.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1630511693/courses/Curso_de_wordpress_completo_dpx8l4.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1644822093/courses/Sin_t%C3%ADtulo_ogr9kf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648208859/courses/excel-desde-cero-3-f_jlg8im.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648208859/courses/excel-desde-cero-1-f_gvwmod.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648208859/courses/excel-desde-cero-2-f_widwzm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648208859/courses/excel-desde-cero-4-f_gzmhvd.jpg"
+    ],
+    "slug": "excel-desde-cero"
+  },
+  {
+    "id": "61be71b169c62000160c8fac",
+    "name": "Crossfit En Casa",
+    "description": "Descubre el mundo del Crossfit de la mano de uno de los mejores profesionales del ámbito. Todo lo que necesitas de forma sencilla y gratuita.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1639871019/courses/Captura_de_pantalla_2021-12-19_a_las_0.43.09_xf5zif.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652957952/courses/crossfit-en-casa-featured-1_jeuvej.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652957952/courses/crossfit-en-casa-featured-2_hfeba8.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652957953/courses/crossfit-en-casa-featured-3_azpe7i.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652957953/courses/crossfit-en-casa-featured-4_wgpifk.jpg"
+    ],
+    "slug": "crossfit-en-casa"
+  },
+  {
+    "id": "61d5c4000aa6730016fb6b3d",
+    "name": "Curso de Logística",
+    "description": "Curso de Logística, Gestión y Optimización de Almacenes. Aprende a controlar y optimizar gastos y costes de stock.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1641399037/courses/Captura_de_pantalla_2022-01-05_a_las_13.07.58_whmdtt.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648069965/courses/curso-de-logistica-1-f_zmm6np.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648069965/courses/curso-de-logistica-2-f_q7tk6i.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648069965/courses/curso-de-logistica-3-f_ck1xla.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1648069965/courses/curso-de-logistica-4-f_ccier9.jpg"
+    ],
+    "slug": "curso-de-logistica"
+  },
+  {
+    "id": "615988428a582e001638e6e1",
+    "name": "Fundamentos Adobe Photoshop",
+    "description": "Arranca en el mundo de la edición profesional de fotos de la mano de unos de los mayores expertos. Harás magia. ",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1633257332/courses/Adobe_cffoye.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654353880/courses/fundamentos-adobe-photoshop-featured-2_y2kf98.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654353880/courses/fundamentos-adobe-photoshop-featured-1_qbxsw1.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654604936/courses/fundamentos-adobe-photoshop-featured-3_yrjnff.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654604936/courses/fundamentos-adobe-photoshop-featured-4_wwx1wc.jpg"
+    ],
+    "slug": "fundamentos-adobe-photoshop"
+  },
+  {
+    "id": "616c10a988f48f00167b594e",
+    "name": "Curso de TikTok",
+    "description": "Hazte viral en TikTok, aprende los principales trucos y estrategias para viralizar tu contenido.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1634471425/courses/INVERTIR_EN_ACCIONES-2_upbpei.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652789079/courses/curso-de-tiktok-featured-2_ao8hxc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652789079/courses/curso-de-tiktok-featured-4_eijiny.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652789080/courses/curso-de-tiktok-featured-1_hmkgqm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1652789080/courses/curso-de-tiktok-featured-3_nfgo5c.jpg"
+    ],
+    "slug": "curso-de-tiktok"
+  },
+  {
+    "id": "624b3fb508e9f40016c03ae5",
+    "name": "Curso de Entrenador Personal",
+    "description": "Todo lo que necesitas saber para ser un buen entrenador personal ¡Está aquí!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1649098598/courses/curso-entrenador-personal-featured-1_ibmoiz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649098598/courses/curso-entrenador-personal-featured-2_k7igxf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649098598/courses/curso-entrenador-personal-featured-4_opvqs5.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649098598/courses/curso-entrenador-personal-featured-3_fkk1ni.jpg"
+    ],
+    "slug": "curso-de-entrenador-personal"
+  },
+  {
+    "id": "61ba04e80a2fe200163da1dd",
+    "name": "Curso Tienda Online",
+    "description": "Aprende a crear una tienda online desde cero, de forma rápida y sencilla. Empieza a vender tus productos hoy mismo.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1639580835/courses/Captura_de_pantalla_2021-12-15_a_las_16.05.06_es5d0g.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654813692/courses/curso-tienda-online-featured-2_nkpgel.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654813693/courses/curso-tienda-online-featured-3_k9pbzu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654813693/courses/curso-tienda-online-featured-1_pbwe07.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654813693/courses/curso-tienda-online-featured-4_rusgph.jpg"
+    ],
+    "slug": "curso-tienda-online"
+  },
+  {
+    "id": "61281efd907dd30016e5bba8",
+    "name": "Curso de Wordpress",
+    "description": "Aprende a crear un sitio web desde cero usando Wordpress, una herramienta avanzada y actual de programación que te permitirá crear sitios web desde cero.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1630019029/courses/Wordpress_fubutx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649196356/courses/curso-de-wordpress-featured-3_catz3q.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649196356/courses/curso-de-wordpress-featured-2_slm57i.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649196356/courses/curso-de-wordpress-featured-1_cyodit.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649196357/courses/curso-de-wordpress-featured-4_zpkgca.jpg"
+    ],
+    "slug": "curso-de-wordpress"
+  },
+  {
+    "id": "6174854d2752f1001603635d",
+    "name": "Curso de Inglés",
+    "description": "Aprende inglés desde cero de la manera más divertida y entretenida. Un curso sin igual.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1635026028/courses/INGLES_tw7q9e.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1646786970/courses/curso-de-ingles-2-f_qe9bwj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1646850826/courses/curso-de-ingles-1-f_hi0nke.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1647116569/courses/curso-de-ingles-3-f_fewwgr.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1647116570/courses/curso-de-ingles-4-f_yobiux.jpg"
+    ],
+    "slug": "curso-de-ingles"
+  },
+  {
+    "id": "61354a09a9abff0016dbb7da",
+    "name": "Inversión en Acciones",
+    "description": "Aprende a analizar empresas  e invertir en acciones de una manera sencilla y segura.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1630882049/courses/Suministros_buena_gesti%C3%B3n_del_inventario_taxcya.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651838871/courses/inversion-en-acciones-featured-4_sajmjf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651838872/courses/inversion-en-acciones-featured-2_txhn2q.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651838872/courses/inversion-en-acciones-featured-1_stda51.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1651838872/courses/inversion-en-acciones-featured-3_llihwv.jpg"
+    ],
+    "slug": "inversion-en-acciones"
+  },
+  {
+    "id": "6184382082102d0016384a95",
+    "name": "Curso Adobe Premiere",
+    "description": "Aprende a editar vídeos de forma profesional con Adobe Premiere. Entra en el mercado con más vacantes del mundo.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1636054462/courses/Adobe_premiere_uxaf3m.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654355514/courses/curso-adobe-premiere-featured-2_tfv2nt.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654355514/courses/curso-adobe-premiere-featured-3_ktc8bj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654355514/courses/curso-adobe-premiere-featured-1_qvfm9u.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1654355514/courses/curso-adobe-premiere-featured-4_lezbm1.jpg"
+    ],
+    "slug": "curso-adobe-premiere"
+  },
+  {
+    "id": "64ecd127db3fd40014690c6e",
+    "name": "Curso de Chat GPT",
+    "description": "Ha llegado el \"BOM\" de la inteligencia artificial, ¡Aprende a dominar ChatGPT con este curso!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1693911699/courses/chat_gpt_1_528x293_azkqgv.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693911708/courses/chat_gpt_2_528x293_tsdhat.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693911712/courses/chat_gpt_3_528x293_owmddo.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693911715/courses/chat_gpt_4_528x293_df3578.jpg"
+    ],
+    "slug": "curso-de-chat-gpt"
+  },
+  {
+    "id": "65131950f754cf0014cf3571",
+    "name": "Producción Musical",
+    "description": "Compone tus propias canciones con este curso de producción musical.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1695750356/courses/produccio%CC%81n_musical_1_528x293_e8v8qt.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1695750384/courses/produccio%CC%81n_musical_4_528x293_sznigp.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1695750388/courses/produccio%CC%81n_musical_3_528x293_wivirb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1695750395/courses/produccio%CC%81n_musical_2_528x293_cnbfys.jpg"
+    ],
+    "slug": "produccion-musical"
+  },
+  {
+    "id": "62eb0e910259250016e32cca",
+    "name": "Curso de Auxiliar de Enfermería",
+    "description": "Aprende de la mano de la Comunidad de Madrid y sumérgete en este curso que te abrirá las puertas a una vacante en el mundo sanitario.",
+    "isExternal": true,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1659572682/courses/Curso_de_Excel-3_msw0hl.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1661082334/courses/1_bknwud.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1661082346/courses/2_tmrlgg.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1661082355/courses/3_jqmvyp.jpg"
+    ],
+    "slug": "curso-de-auxiliar-de-enfermeria"
+  },
+  {
+    "id": "62bb1c09375eb10016070470",
+    "name": "Curso de Ventas",
+    "description": "Aprende a ser el mejor vendedor y a aumentar las ventas de tu negocio con este curso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1656429273/courses/curso-de-ventas-featured-4_gw919j.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1656429333/courses/curso-de-ventas-featured-1_l9chlb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1656429384/courses/curso-de-ventas-featured-2_enb6wn.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1656429403/courses/curso-de-ventas-featured-3_aik90w.jpg"
+    ],
+    "slug": "aumento-de-las-ventas"
+  },
+  {
+    "id": "64db6a68b387fe001474ea65",
+    "name": "urso de Alemán | A1 y A2",
+    "description": "En este curso podrás aprender los básicos del Alemán de la mano de nuestra profesora Nathalie.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1692100766/courses/Curso_de_1920_1080_px_sm4yam.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1692653802/courses/ALEMA%CC%81N_1_528X293_fzzlmc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1692653812/courses/ALEMA%CC%81N_2_528x293_dbrcoq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1692653837/courses/ALEMA%CC%81N_4_528X293_b6g2fk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1692653961/courses/ALEMA%CC%81N_3_528x293_at7fe3.jpg"
+    ],
+    "slug": "curso-de-aleman-a1-y-a2"
+  },
+  {
+    "id": "62d81bcda8169c0016eabcbd",
+    "name": "Cómo hacer una Carta de Presentación",
+    "description": "Este tutorial explica como hacer una buena carta de presentación para conseguir empleo.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1658329975/courses/COMMUNITY_MANAGER_xo9tby.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1659964823/courses/como-hacer-una-carta-de-presentacion-featured-1_mcsz3s.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1659964823/courses/como-hacer-una-carta-de-presentacion-featured-2_a3zs3h.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660645565/courses/como-hacer-una-carta-de-presentacion-featured-3_p0um5z.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660645566/courses/como-hacer-una-carta-de-presentacion-featured-4_xsn4bp.jpg"
+    ],
+    "slug": "como-hacer-una-carta-de-presentacion"
+  },
+  {
+    "id": "62e6fda91dabf30016aa1768",
+    "name": "Decoración de Interiores",
+    "description": "Con este curso serás todo un profesional del interiorismo. ¡No te lo puedes perder!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1659305322/courses/COMMUNITY_MANAGER_xydey1.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1659354609/courses/curso-de-decoracion-de-interiores-featured-1_m36efu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660584632/courses/curso-de-decoracion-de-interiores-featured-4_szl28v.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660584632/courses/curso-de-decoracion-de-interiores-featured-3_zljsdd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660584632/courses/curso-de-decoracion-de-interiores-featured-2_vbzvfb.jpg"
+    ],
+    "slug": "decoracion-de-interiores"
+  },
+  {
+    "id": "64efc19ffc1a3d001432d07e",
+    "name": "Power BI",
+    "description": "Domina Power BI con este curso GRATUITO de. Aquí aprenderás los fundamentos de Power BI Desktop en 2023.\n",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1693434145/courses/POWER_BI_1_528x293_kmbsna.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693434160/courses/POWER_BI_3_528X293_iwzjt0.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693434163/courses/POWER_BI_4_528X293_ffkt8b.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693434215/courses/POWER_BI_2_528X293_xynlen.jpg"
+    ],
+    "slug": "power-bi"
+  },
+  {
+    "id": "64b304af155afd00148b0e3a",
+    "name": "Cómo crecer y ganar dinero en Instagram ",
+    "description": "Descubre todas y cada una de la estrategias para crecer y ganar dinero en instagram de forma completamente gratuita.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1689453672/courses/Curso_de_1920_1080_px_tfm6wi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690275263/courses/ganar_dinero_en_el_instagram_1_528x293_v4fsqo.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690275274/courses/ganar_dinero_en_el_instagram_2_528x293_d5bhlf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690275281/courses/ganar_dinero_en_el_instagram_3_528x293_hl750p.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690275288/courses/ganar_dinero_en_el_instagram_4_528x293_kzxf1v.jpg"
+    ],
+    "slug": "como-crecer-y-ganar-dinero-en-instagram"
+  },
+  {
+    "id": "63dd68f7fed93f0016a936aa",
+    "name": "Curso de SEO",
+    "description": "Todo lo que necesitas saber sobre el mundo del SEO podrás encontrarlo aquí y de forma totalmente gratuita.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1675453909/courses/curso_de_ldjchd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1675696817/courses/curso-de-seo-featured-2_tnhpng.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1675696817/courses/curso-de-seo-featured-3_fhpvac.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1675696818/courses/curso-de-seo-featured-1_d1lfhi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1675696818/courses/curso-de-seo-featured-4_xquwhl.jpg"
+    ],
+    "slug": "curso-de-seo"
+  },
+  {
+    "id": "628375700281e60016beba8b",
+    "name": "Organización de Eventos",
+    "description": "Si eres la persona que siempre organiza todos los planes has llegado al lugar correcto.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1652781968/courses/Curso_de_Organizaci%C3%B3n_de_Eventos_prvhkf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653146245/courses/organizacion-de-eventos-featured-1_rktxlx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653146245/courses/organizacion-de-eventos-featured-2_vmpj59.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653329813/courses/organizacion-de-eventos-featured-3_is4tre.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1653329813/courses/organizacion-de-eventos-featured-4_ljhpwl.jpg"
+    ],
+    "slug": "organizacion-de-eventos"
+  },
+  {
+    "id": "62d5382d29fe900016566096",
+    "name": "Cómo hacer un Curriculum Vitae",
+    "description": "Aprende a hacer un Curriculum Vitae de forma rápida y sencilla con este tutotrial.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1658140665/courses/Curso_de_Organizaci%C3%B3n_de_Eventos_ry2f6n.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660908388/courses/como-hacer-un-curriculum-vitae-featured-4_keet3p.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660908388/courses/como-hacer-un-curriculum-vitae-featured-1_khpxix.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660908388/courses/como-hacer-un-curriculum-vitae-featured-2_lqqbfa.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1660908388/courses/como-hacer-un-curriculum-vitae-featured-3_h7uhba.jpg"
+    ],
+    "slug": "como-hacer-un-curriculum-vitae"
+  },
+  {
+    "id": "636a97ee45dace0016131a64",
+    "name": "Curso de Inglés de A1 a B1",
+    "description": "Curso de Inglés Completo de A1 a B1. Este curso está enfocado en lograr los certificados oficiales Trinity y Cambridge. Aprenderás todo desde cero hasta conseguir tu certificado oficial. No se pide ningún tipo de requisito, está adaptado a todos los niveles.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1718032490/courses/Ingl%C3%A9s_a1-b1_1_258x293_z8akpf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1718032516/courses/Ingl%C3%A9s_a1-b1_2_258x293_u6oi27.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1718032517/courses/Ingl%C3%A9s_a1-b1_3_258x293_gzny1g.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1718032521/courses/Ingl%C3%A9s_a1-b1_4_258x293_rjejyk.jpg"
+    ],
+    "slug": "curso-de-ingles-de-a1-a-b1"
+  },
+  {
+    "id": "624eb1682a37d2001687cd4d",
+    "name": "Manipulación de Alimentos",
+    "description": "Todo lo que debes saber sobre la Manipulación de Alimentos y Protección Civil.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1649324303/courses/manipulacion-de-alimentos-featured_avjqyq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649810675/courses/manipulacion-de-alimentos-featured-3_kqppml.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649810674/courses/manipulacion-de-alimentos-featured-4_bc7w6a.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649810675/courses/manipulacion-de-alimentos-featured-1_r3bubv.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649810675/courses/manipulacion-de-alimentos-featured-2_ejebk8.jpg"
+    ],
+    "slug": "manipulacion-de-alimentos"
+  },
+  {
+    "id": "63891da64492e700168d30e5",
+    "name": "Curso de Gerencia",
+    "description": "Todo lo que necesitas saber sobre gerencia lo tienes en este curso completamente gratis.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1669924688/courses/1_l8rwj8.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669924688/courses/2_bnrsfz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669924688/courses/3_ffrxg4.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1672676752/courses/curso-de-gerencia-featured-1_xdmfgo.jpg"
+    ],
+    "slug": "curso-de-gerencia"
+  },
+  {
+    "id": "63de2b6d1495d10016c2dc4a",
+    "name": "Curso de Ciberseguridad",
+    "description": "Si quieres conocer más sobre el mundo de la ciberseguridad estás en el lugar correcto y no puedes perderte ningún detalle de este curso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1675504421/courses/CIBERSEGURIDAD_o1nyfx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1682363915/courses/cyberseguridad-featured-1_fvq51f.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1682363915/courses/cyberseguridad-featured-4_wgdaen.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1682363915/courses/cyberseguridad-featured-3_boj1jq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1682363916/courses/cyberseguridad-featured-2_b8zomm.jpg"
+    ],
+    "slug": "curso-de-ciberseguridad"
+  },
+  {
+    "id": "6446e9fe07e2cc0014dc6984",
+    "name": "Copywriting y neuromarketing",
+    "description": "Especialízate en los dos temas que más salidas laborales tienen en la actualidad.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1682368277/courses/2_tp2mkr.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179159/courses/copywriting-y-neuromarketing-featured-2_eci5dc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179159/courses/copywriting-y-neuromarketing-featured-3_iytble.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179159/courses/copywriting-y-neuromarketing-featured-4_ltejha.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179159/courses/copywriting-y-neuromarketing-featured-1_qmb5sb.jpg"
+    ],
+    "slug": "copywriting-y-neuromarketing"
+  },
+  {
+    "id": "63a9f434f3ed7e00163c5fcc",
+    "name": "Curso de Nutrición Avanzado ",
+    "description": "Para todos los que habéis realizado el curso de iniciación a la nutrición, ya tenéis disponible el curso avanzado para que así puedas aumentar tus conocimientos sobre este tema.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1672081988/courses/curso-de-nutricion-featured-2_zrcdx9.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1672082192/courses/curso-de-nutricion-featured-1_gnnn4e.jpg"
+    ],
+    "slug": "curso-de-nutricion-avanzado"
+  },
+  {
+    "id": "64c771e91bba0e0014feb167",
+    "name": "Cómo gestionar tu tiempo para ser más productivo",
+    "description": "Aprende a gestionar tu tiempo y a ser más productivo para poder conseguir todos y cada uno de tus objetivos.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1690792134/courses/gestionar_tu_tiempo_1_528x293_qvghqx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690792139/courses/gestionar_tu_tiempo_2_528x293_efzcut.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1690792145/courses/gestionar_tu_tiempo_3_528x293_pcmcaf.jpg"
+    ],
+    "slug": "como-gestionar-tu-tiempo-para-ser-mas-productivo"
+  },
+  {
+    "id": "6358e9ad23be300016924480",
+    "name": "Curso de Computación",
+    "description": "Aprende a navegar por internet con dos sistemas diferentes con este curso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1666771195/courses/1_espshd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666771196/courses/3_pox1yk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666771196/courses/2_mpposi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666771196/courses/4_ebrpu4.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669063240/courses/curso-de-computacion-featured-2_h5iczd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669063240/courses/curso-de-computacion-featured-3_uonxol.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669063242/courses/curso-de-computacion-featured-4_zdp4zu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1670006035/courses/curso-de-computacion-featured-1_zox0il.jpg"
+    ],
+    "slug": "curso-de-computacion"
+  },
+  {
+    "id": "631b8473c85e780016ea6e3b",
+    "name": "Curso Oficial Gestor de Redes Sociales",
+    "description": "Certificado profesional y gratuito impartido por Facebook que impulsionará tu carrera como gestor de redes sociales, la certificación más demandada del momento.",
+    "isExternal": true,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1662747734/courses/Presentaci%C3%B3n_profesional_para_conferencia_sobre_recursos_humanos_estilo_minismalista_en_tonos_marrones_ocre_qm7ijk.jpg"
+    ],
+    "slug": "curso-oficial-gestor-de-redes-sociales"
+  },
+  {
+    "id": "634bed06d7d0f10016563a84",
+    "name": "Curso Completo de Word",
+    "description": "Aprende las técnicas básicas y avanzadas de Microsoft Word.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1665920195/courses/curso-word-featured-1_hmxrkq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1665920196/courses/curso-word-featured-2_aimnjq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1665920196/courses/curso-word-featured-4_jjmacq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1665920196/courses/curso-word-featured-3_w33eaj.jpg"
+    ],
+    "slug": "curso-completo-de-word"
+  },
+  {
+    "id": "654216cc4a157e0014460f7e",
+    "name": "Curso de Facebook ADS y Google ADS",
+    "description": "Aprende a crear campañas en Google y Facebook para potenciar tu marca o negocio.\n\n",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1698833477/courses/Curso_de_1920_1080_px_528_x_293_px_aufezj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699260487/courses/FB_GOOGLE_ADS_1_528x293_rprbaz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699260490/courses/FB_GOOGLE_ADS_2_528x293_swse4w.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699260509/courses/FB_GOOGLE_ADS_3_528x293_hnnvfq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699260513/courses/FB_GOOGLE_ADS_4_528x293_j5x6kr.jpg"
+    ],
+    "slug": "facebook-ads-y-google-ads"
+  },
+  {
+    "id": "64efc5f3fc1a3d001432d092",
+    "name": "Curso de Meditación",
+    "description": "Medita y relájate con este curso online completamente gratis. ¡No te lo puedes perder!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1693435316/courses/MEDITACIO%CC%81N_1_528x293_txrhmi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693435321/courses/MEDITACIO%CC%81N_2_528x293_gza4en.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693435324/courses/MEDITACIO%CC%81N_3_528x293_rbvddk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693436712/courses/MEDITACIO%CC%81N_4_528x293_rgnqh9.jpg"
+    ],
+    "slug": "curso-de-meditacion"
+  },
+  {
+    "id": "647ef1cad0966c00142fca5d",
+    "name": "Curso de Inglés para adultos ",
+    "description": "Nunca es tarde para aprender idiomas, este es el momento para hacer crecer tu carrera laboral.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1686040572/courses/Curso_de_1920_1080_px_-5_wpihqw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765548/courses/ingles_adultos_2_528x293_usgiow.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765562/courses/ingles_adultos_3_528x293_glk9il.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765569/courses/ingles_adultos_4_528x293_qmhm2p.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765575/courses/ingles_adultos_528x293_xeygw7.jpg"
+    ],
+    "slug": "curso-de-ingles-para-adultos"
+  },
+  {
+    "id": "659d1230714f8d0018eb3e8f",
+    "name": "Curso de Criptomonedas",
+    "description": "Todo lo que necesitas saber sobre Criptomonedas lo tienes AQUÍ.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1704791491/courses/Criptomonedas_1_528x293_miwcnm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1704791496/courses/Criptomonedas_2_528x293_vsojks.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1704791503/courses/Criptomonedas_3_528x293_faizsk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1704791510/courses/Criptomonedas_4_528x293_snlx9k.jpg"
+    ],
+    "slug": "curso-de-criptomonedas"
+  },
+  {
+    "id": "657738f67062a70018c606da",
+    "name": "Curso de Lectura Rápida",
+    "description": "Estamos en la era de la información, donde la cantidad de datos disponibles sobre cualquier tema es abrumadora y la información se renueva constantemente. Por eso, es muy importante desarrollar la habilidad de leer de manera ágil sin sacrificar la comprensión para mantenerse actualizado.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1702312017/courses/lectura_rapida_1_528x293_xlaoes.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702312022/courses/lectura_rapida_2_528x293_xsgedd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702312027/courses/lectura_rapida_3_528x293_czxizr.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702312031/courses/lectura_rapida_4_528x293_e8yh1j.jpg"
+    ],
+    "slug": "curso-de-lectura-rapida"
+  },
+  {
+    "id": "6654f5f82927d4001590cd12",
+    "name": "Cómo ganar 100€ al día haciendo vídeos virales",
+    "description": "Descubre las estrategias de los creadores de contenido de éxito para ganar dinero haciendo contenido viral.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1716843888/courses/C%C3%93MO_GANAR_520_x_293_px_eegklj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717427942/courses/100_al_dia_c_videos_1_528x293_p5mjlq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717427949/courses/100_al_dia_c_videos_2_1920x1080_qmc0aj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717427955/courses/100_al_dia_c_videos_3_528x293_n0a7fw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717427961/courses/100_al_dia_c_videos_4_528x293_qzetxn.jpg"
+    ],
+    "slug": "como-ganar-100-al-dia-haciendo-videos-virales"
+  },
+  {
+    "id": "6376a2b5ebe6c30016b92d1b",
+    "name": "Cómo afrontar una entrevista de trabajo",
+    "description": "Con este curso harás una entrevista de trabajo de éxito y conseguirás el trabajo de tus sueños.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1668719210/courses/1_oqan87.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1668719210/courses/3_gzsykk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1668719211/courses/2_fkko1z.jpg"
+    ],
+    "slug": "como-afrontar-una-entrevista-de-trabajo"
+  },
+  {
+    "id": "63aad67d1473920016409c02",
+    "name": "Anuncios para Negocios Locales",
+    "description": "Descubre cómo ganar 120€ al día haciendo anuncios para negocios locales desde casa. Un paso a paso completo que te llevará de la mano. No se necesita experiencia y puedes tener cualquier edad o nacionalidad.",
+    "isExternal": true,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1672140393/courses/AnunCIOS_olrckn.jpg"
+    ],
+    "slug": "anuncios-para-negocios-locales"
+  },
+  {
+    "id": "6654c6fb2927d4001590b84f",
+    "name": "Guía Completa de Shopify Dropshipping",
+    "description": "Crea un negocio online de éxito con este curso gratuito de Shopify Dropshipping.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1716830473/courses/Dropshipping_1_528x293_q1v06t.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716830478/courses/Dropshipping_2_528x293_vocca9.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716830488/courses/Dropshipping_3_528x293_bgfskw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716830494/courses/Dropshipping_4_528x293_ipktyx.jpg"
+    ],
+    "slug": "guia-completa-de-shopify-dropshipping"
+  },
+  {
+    "id": "6616d20a0b0f7b0015dc89d3",
+    "name": "Gana más de 150€/día con Canva",
+    "description": "¡Descubre el secreto para desbloquear ingresos ilimitados con Canva!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1713370028/courses/150e_co%CC%81n_Canva_1_528x293_obgqnh.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1713370037/courses/150e_co%CC%81n_Canva_2_528x293_ntzrbi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1713370043/courses/150e_co%CC%81n_Canva_3_528x293_tqpxoz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1713370048/courses/150e_co%CC%81n_Canva_4_528x293_vhryeg.jpg"
+    ],
+    "slug": "gana-mas-de150dia-con-canva"
+  },
+  {
+    "id": "64f70ec72a63300014a98907",
+    "name": "Inglés para hostelería y turismo",
+    "description": "Curso de inglés especializado para personas que trabajan o desean tener la oportunidad de trabajar en el sector de la hostelería y el turismo. ",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1693912699/courses/ingles_hosteleria_1_528X293_zlf1te.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693912702/courses/ingles_hosteleria_2_528X293_fetmpl.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693912707/courses/ingles_hosteleria_3_528X293_zjtbwg.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1693912713/courses/ingles_hosteleria_4_528x293_dplaij.jpg"
+    ],
+    "slug": "ingles-para-hosteleria-y-turismo"
+  },
+  {
+    "id": "65422eff4a157e0014461152",
+    "name": "Curso de TikTok ADS",
+    "description": "Aprende estrategias de marketing para crear campañas de anuncios efectivos en TikTok Ads.\n",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1698835252/courses/Curso_de_1920_1080_px_-2_bccjj1.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699259807/courses/TIKTOK_ADS_1_528x293_hxvptg.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699259814/courses/TIKTOK_ADS_2_528x293_oaz0hi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699259820/courses/TIKTOK_ADS_3_528x293_lb21sj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1699259825/courses/TIKTOK_ADS_4_528x293_c4ibme.jpg"
+    ],
+    "slug": "curso-de-tiktok-ads"
+  },
+  {
+    "id": "632a0008b4de550016413046",
+    "name": "Curso de Contabilidad",
+    "description": "Curso fácil, práctico y completo para aprender Contabilidad paso a paso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1663696070/courses/curso-de-contabilidad-featured-2_mka9nj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1663696071/courses/curso-de-contabilidad-featured-1_yhbr2d.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1663696071/courses/curso-de-contabilidad-featured-4_bjpv7f.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1663696071/courses/curso-de-contabilidad-featured-3_jo8ezw.jpg"
+    ],
+    "slug": "curso-de-contabilidad"
+  },
+  {
+    "id": "656cdf2cf37cff001827f2e9",
+    "name": "Curso de Midjourney - De Principiante a Pro",
+    "description": "Todo lo que necesitas saber para ser PRO en Midjourney.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1701633355/courses/MIDJOURNEY_1_528x293_q9hrtd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701633365/courses/MIDJOURNEY_2_528x293_ugtizq.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701633371/courses/MIDJOURNEY_3_528x293_xjshme.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701633377/courses/MIDJOURNEY_4_528x293_laybmk.jpg"
+    ],
+    "slug": "curso-de-midjourney-de-principiante-a-pro"
+  },
+  {
+    "id": "64a6cc2993b61200141de4d6",
+    "name": "Curso de Inglés Para Padres",
+    "description": "Con este curso de inglés podrás ayudar y guiar a tus hijos según el nivel escolar que estén cursando.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1688652649/courses/Curso_de_1920_1080_px_-2_d0iqez.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765260/courses/ingles_p_padres_1_528x293_ss3fsp.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765266/courses/ingles_p_padres_2_528x293_q8w7uk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765272/courses/Ingles_para_padres_3_528x293_y8vrff.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1689765279/courses/Ingles_para_padres_4_528x293_bar9i4.jpg"
+    ],
+    "slug": "english-for-parents"
+  },
+  {
+    "id": "63b5eb75e6500a001674f622",
+    "name": "Curso de Gestión de Calidad",
+    "description": "Curso ISO 9001:2015 en el que se explica con todo detalle los sistemas de gestión de calidad. Si quieres saber más sobre este tema, no te lo puedes perder.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1672866555/courses/gestion-calidad-featured-1_bbf8hh.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1672866555/courses/gestion-calidad-featured-3_p8khcz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1672866555/courses/gestion-calidad-featured-2_vr7oqi.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1672866555/courses/gestion-calidad-featured-4_arkhun.jpg"
+    ],
+    "slug": "curso-de-gestion-de-calidad"
+  },
+  {
+    "id": "6256002d09eda30016a61ae6",
+    "name": "Diseño Gráfico Avanzado",
+    "description": "Si quieres ser un genio del diseño gráfico estás en el lugar correcto.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1649803287/courses/curso-de-diseno-grafico-avanzado-featured-1_xsi9vx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1649803287/courses/curso-de-diseno-grafico-avanzado-featured-2_pbbo8h.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1650814230/courses/curso-de-diseno-grafico-avanzado-featured-4_vefiyy.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1650814231/courses/curso-de-diseno-grafico-avanzado-featured-3_drgbp0.jpg"
+    ],
+    "slug": "curso-de-diseno-grafico-avanzado"
+  },
+  {
+    "id": "63545bc3992cf1001641f831",
+    "name": "Curso de Google Calendar",
+    "description": "Aprende a utilizar Google Calendar como agenda.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1666472652/courses/3_lirz9m.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666472653/courses/4_trqglw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666472653/courses/1_risa3y.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1666472654/courses/2_pibotu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669062608/courses/curso-de-google-calendar-featured-1_tkqnsy.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669062609/courses/curso-de-google-calendar-featured-2_vdbpus.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669062610/courses/curso-de-google-calendar-featured-3_nlelz0.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1669062612/courses/curso-de-google-calendar-featured-4_q8ahva.jpg"
+    ],
+    "slug": "curso-de-google-calendar"
+  },
+  {
+    "id": "642c4dc78040de001492286b",
+    "name": "Curso de Power Point",
+    "description": "Conviértete en todo un profesional haciendo Power Point con este curso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1680625010/courses/Curso_de_y1ywta.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179873/courses/curso-de-power-point-featured-2_hza0ww.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179873/courses/curso-de-power-point-featured-1_n7k3sm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179873/courses/curso-de-power-point-featured-3_vpg4my.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1684179874/courses/curso-de-power-point-featured-4_zuxhiy.jpg"
+    ],
+    "slug": "curso-de-power-point"
+  },
+  {
+    "id": "656a6252aaebaf001990488d",
+    "name": "RETO: Como perder 1kg en 4 días",
+    "description": "Atrévete a realizar el RETO de perder 1kg en 4 días.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1701470686/courses/1kg_em_4_dias_1_528x293_b5nudw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701470692/courses/1kg_em_4_dias_2_1920x1080_ylimmf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701470696/courses/1kg_em_4_dias_3_528x293_bguf1p.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1701470700/courses/1kg_em_4_dias_4_528x293_ygpay7.jpg"
+    ],
+    "slug": "reto-como-perder-1kg-en-4-dias"
+  },
+  {
+    "id": "65815b823a79730019aed57a",
+    "name": "Curso de Notion",
+    "description": "Potencia tu eficiencia diaria y transforma tu flujo laboral dominando las herramientas y técnicas de Notion.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1702975912/courses/NOTION_1_528x293_fh3ypl.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702975917/courses/NOTION_2_528x293_oqowf3.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702975921/courses/NOTION_3_528x293_heodxw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1702975934/courses/NOTION_4_528x293_dvakyg.jpg"
+    ],
+    "slug": "curso-de-notion"
+  },
+  {
+    "id": "66350ebeed32910015c8dbd2",
+    "name": "Cómo ganar dinero creando sitios web con WEBFLOW",
+    "description": "Cómo utilizar Webflow y ganar dinero creando sitios web con esta plataforma.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1716885933/courses/Webflow_1_528x293_gan3m1.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716885938/courses/Webflow_2_528x293_wvkxvw.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716885969/courses/Webflow_3_528x293_zaeysd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1716885975/courses/Webflow_4_528x293_defhf6.jpg"
+    ],
+    "slug": "como-ganar-dinero-creando-sitios-web-con-webflow"
+  },
+  {
+    "id": "665deb81f96b980015c0265b",
+    "name": "Crea aplicaciones sin programar con Bubble",
+    "description": "¿Te imaginas poder crear aplicaciones web profesionales sin escribir una sola línea de código? ¡Es posible! Con este curso.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1717430720/courses/app_en_bubble_1_528X293_mwxg4n.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717430748/courses/app_en_bubble_2_1920x1080_mc3xmc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1717430761/courses/App_en_bubble_4_528x293_tmintn.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1720517745/courses/app_en_bubble_3_528x293_ltf0zh.jpg"
+    ],
+    "slug": "crea-aplicaciones-sin-programar-con-bubble"
+  },
+  {
+    "id": "66d742f776f8450015ba3103",
+    "name": "Excel aplicado al Análisis Financiero",
+    "description": "El curso \"Excel aplicado al Análisis Financiero\" está diseñado para proporcionar habilidades prácticas en el uso de Microsoft Excel dentro del contexto del análisis financiero.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1725739970/courses/an%C3%A1lisis_financiero_1_528x293_rx9ndu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1725739978/courses/an%C3%A1lisis_financiero_2_528x293_owl1uf.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1725739984/courses/an%C3%A1lisis_financiero_3_528x293_dtyzod.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1725739993/courses/an%C3%A1lisis_financiero_4_528x293_is1asv.jpg"
+    ],
+    "slug": "analisis-financiero"
+  },
+  {
+    "id": "66b105c36ed4070015b128ba",
+    "name": "Trading desde Cero",
+    "description": "¡Transforma tu futuro financiero con nuestro Curso de Trading Completo!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1722877277/courses/Trading_1_528x293_qxmw1c.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1722877283/courses/Trading_2_528x293_hyzurt.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1722877287/courses/Trading_3_528x293_tyajej.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1722877291/courses/Trading_4_528x293_dqo8kk.jpg"
+    ],
+    "slug": "curso-de-trading-desde-cero"
+  },
+  {
+    "id": "669f85f6ffe44c0015884607",
+    "name": "Curso Completo de CapCut",
+    "description": "¿Te apasiona la edición de video y quieres aprender a crear contenido profesional de manera fácil y rápida? ¡Este curso de edición de video con CapCut es perfecto para ti! ",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1721730379/courses/Capcut_1_528x293_fuzmih.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1721730389/courses/Capcut_2_528x293_dlqfka.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1721730400/courses/Capcut_3_528x293_g7ltbe.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1721730406/courses/Capcut_4_528x293_f8kwwd.jpg"
+    ],
+    "slug": "curso-completo-de-capcut"
+  },
+  {
+    "id": "66cc56caa9bb0b0015af896b",
+    "name": "Dashboards con Excel",
+    "description": "Aprende a crear Dashboards interactivos y visualmente atractivos con Excel. ",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1724667428/courses/dashboards_en_excel_1_528x293_etekyk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724667433/courses/dashboards_en_excel_2_528x293_jfyvpy.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724667440/courses/dashboards_en_excel_3_528x293_vyiqfr.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724667445/courses/dashboards_en_excel_4_528x293_nrvsn0.jpg"
+    ],
+    "slug": "dashboards-con-excel"
+  },
+  {
+    "id": "66f2ec83a72b8e0015440c24",
+    "name": "MasterClass - 10 Formas de ganar dinero online",
+    "description": "En esta clase exclusiva, descubrirás cómo aprovechar el poder de Internet para generar múltiples fuentes de ingresos.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1727196115/courses/10_f_ganar_dinero_online_1_528x293_od1stx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1727196124/courses/10_f_ganar_dinero_online_2_528x293_hbejky.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1727196136/courses/10_f_ganar_dinero_online_3_528x293_i38cy1.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1727196149/courses/10_f_ganar_dinero_online_4_528x293_h4ryux.jpg"
+    ],
+    "slug": "masterclass-10-formas-de-ganar-dinero-online"
+  },
+  {
+    "id": "668b186d30e0ce0015a58474",
+    "name": "Email Marketing y Active Campaign",
+    "description": "ActiveCampaign es la herramienta ideal para la automatización. Asiste al curso gratuito.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1720391684/courses/Email_MKT_actvcmp_1_528x293_obsrha.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1720391697/courses/Email_MKT_actvcmp_2_528x293_coykfx.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1720391702/courses/Email_MKT_actvcmp_3_528x293_v9jaaa.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1720391707/courses/Email_MKT_actvcmp_4_528x293_np91jn.jpg"
+    ],
+    "slug": "email-marketing-y-active-campaign"
+  },
+  {
+    "id": "66c8e3dbdf19ca00152b240e",
+    "name": "Curso de Francés ",
+    "description": "¡Anímate a descubrir el mundo del francés y sumérgete en una nueva experiencia lingüística!",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1724441471/courses/Franc%C3%A9s_1_528x293_bss7mu.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724441475/courses/Franc%C3%A9s_2_528x293_mtrgkv.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724441479/courses/Franc%C3%A9s_3_528x293_egd7o0.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1724441484/courses/Franc%C3%A9s_4_528x293_vyhtmr.jpg"
+    ],
+    "slug": "curso-de-frances"
+  },
+  {
+    "id": "66bc774c946d0a00159983d9",
+    "name": "Educación Financiera",
+    "description": "Descubre los conocimientos y herramientas esenciales para gestionar eficazmente tus finanzas y tomar decisiones financieras.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1723627133/courses/EDUCACI%C3%93N_FINANCIEIRA_1_528x293_fowysd.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1723627139/courses/EDUCACI%C3%93N_FINANCIEIRA_2_528x293_j9ydgs.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1723627152/courses/EDUCACI%C3%93N_FINANCIEIRA_3_528x293_ezirpr.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1723627156/courses/EDUCACI%C3%93N_FINANCIEIRA_4_528x293_om5ih0.jpg"
+    ],
+    "slug": "educacion-financiera"
+  },
+  {
+    "id": "66f2f7c1597839001574e32f",
+    "name": "MasterClass - Cómo estudiar 100 páginas en 10 minutos ",
+    "description": "Reflix Chat, una herramienta diseñada para transformar tu forma de estudiar. Descúbrelo en esta MasterClass.\n",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1728563114/courses/100_p%C3%A1ginas_en_10min_4_528x293_cxkajc.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728563115/courses/100_p%C3%A1ginas_en_10min_3_528x293_jbn819.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728563115/courses/100_p%C3%A1ginas_en_10min_2_528x293_x2znd0.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728563115/courses/100_p%C3%A1ginas_en_10min_1_528x293_fati1e.jpg"
+    ],
+    "slug": "masterclass-como-estudiar-100-paginas-en-10-minutos"
+  },
+  {
+    "id": "670d10c24cb4c1001559dae0",
+    "name": "Python desde cero en 10 días",
+    "description": "Si siempre has querido aprender a programar, pero no sabías por dónde empezar, este curso es tu oportunidad perfecta.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1728909364/courses/Phyton_1_528x293_h1suzp.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728909369/courses/Phyton_2_528x293_amoneg.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728909374/courses/Phyton_3_528x293_whf9dz.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1728909396/courses/Phyton_4_528x293_jhfhts.jpg"
+    ],
+    "slug": "python-desde-0"
+  },
+  {
+    "id": "6720932254afae0015d588a0",
+    "name": "Masterclass Cómo Escapar del Sistema - Llados",
+    "description": "En esta masterclass, te mostraré cómo puedes crear tu propio camino hacia la libertad financiera, el desarrollo personal y una vida verdaderamente plena.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1730187379/courses/C%C3%B3mo_Escapar_del_Sistema_1_528x293_d5jzi7.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730187393/courses/C%C3%B3mo_Escapar_del_Sistema_2_528x293_ppathj.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730187398/courses/C%C3%B3mo_Escapar_del_Sistema_3_528x293_og41g8.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730187403/courses/C%C3%B3mo_Escapar_del_Sistema_4_528x293_c5rr7b.jpg"
+    ],
+    "slug": "masterclass-como-escapar-de-la-matrix-llados"
+  },
+  {
+    "id": "672cf2051ed31d0015e02220",
+    "name": "Cómo ganar dinero publicando vídeos en TikTok",
+    "description": "¿Te gustaría transformar tus ideas en dinero real con TikTok? Descubre la estrategia en este curso gratuito de la mano de un gran experto en RRSS, MRmonopolyboss.",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1730998454/courses/como_ganar_dinero_en_tktk_1_528x293_xrhkhm.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730998460/courses/como_ganar_dinero_en_tktk_2_528x293_f7fout.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730998467/courses/como_ganar_dinero_en_tktk_3_528x293_gjo9ip.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730998472/courses/como_ganar_dinero_en_tktk_4_528x293_gl8nwt.jpg"
+    ],
+    "slug": "como-ganar-dinero-publicando-videos-en-tiktok"
+  },
+  {
+    "id": "672cf3d51ed31d0015e0227b",
+    "name": "Masterclass Construye tu Libertad - Mario López",
+    "description": "¡Imagina tener el control de tu tiempo, tus decisiones y tus sueños! 🚀",
+    "isExternal": false,
+    "featuredImage": [
+      "https://res.cloudinary.com/claseflix/image/upload/v1730999112/courses/Construye_tu_Libertad_1_528x293_xxcsev.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730999162/courses/Construye_tu_Libertad_2_528x293_s0yxjb.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730999168/courses/Construye_tu_Libertad_3_528x293_rqndjk.jpg",
+      "https://res.cloudinary.com/claseflix/image/upload/v1730999173/courses/Construye_tu_Libertad_4_528x293_ynz2or.jpg"
+    ],
+    "slug": "masterclass-construye-tu-libertad-mario-lopez"
+  }
+]
